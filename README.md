@@ -11,6 +11,8 @@
 ![langs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge)
 ![langs](https://img.shields.io/badge/webpack-5299C8?style=for-the-badge)
 ![langs](https://img.shields.io/badge/Wechat--Applet-07C160?style=for-the-badge)
+![langs](https://img.shields.io/badge/Echarts-F72C5B?style=for-the-badge)
+![langs](https://img.shields.io/badge/TypeScript-0074C1?style=for-the-badge)
 
 <!--
 **SambacFeng/SambacFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
