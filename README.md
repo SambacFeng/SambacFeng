@@ -1,5 +1,4 @@
-## Hi 👋 ! I'm SambacFeng
-> **Junior student living in Chongqing China**  
+## Hi 👋 ! I'm SambacFeng 
 > **Learning front-end technology and web development**
 
 ![SambacFeng's Stats](https://github-readme-stats.vercel.app/api?username=SambacFeng&show_icons=true&bg_color=30,6cc,cfc,cf9&title_color=000)
